@@ -1,1 +1,9 @@
-
+mark = 90
+if mark < 50 :
+  print("не складено")
+elif mark < 70:
+  print("задовільно")
+elif mark < 90:
+  print("нормально")
+elif mark <=100:
+  print("чудово")
